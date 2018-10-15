@@ -1,0 +1,6 @@
+projectKey=Job_Liferay_Project:Job_Liferay_Project
+serverUrl=http://localhost:9000
+serverVersion=7.2.1.14109
+dashboardUrl=http://localhost:9000/dashboard?id=Job_Liferay_Project%3AJob_Liferay_Project
+ceTaskId=AWTSHai3pgaEl_E5XJ6j
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWTSHai3pgaEl_E5XJ6j
